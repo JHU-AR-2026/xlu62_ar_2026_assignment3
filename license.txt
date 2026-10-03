@@ -1,0 +1,11 @@
+Model Information:
+* title:	Волан / Shuttlecock
+* source:	https://sketchfab.com/3d-models/shuttlecock-c3e9b43766314a6186a0c92d1769980d
+* author:	Alex Petuhov (https://sketchfab.com/alex.petuhov-1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Волан / Shuttlecock" (https://sketchfab.com/3d-models/shuttlecock-c3e9b43766314a6186a0c92d1769980d) by Alex Petuhov (https://sketchfab.com/alex.petuhov-1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
