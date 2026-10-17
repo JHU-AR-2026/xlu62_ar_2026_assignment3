@@ -2,23 +2,23 @@
 
 # Repository Contents
 
-heart_in_love/
+## heart_in_love/
 
 Downloaded 3D model assets used for the WebXR AR scene in Question 2.
 
-2a-f.html
+## 2a-f.html
 
 HTML implementation for Question 2, including WebXR hit testing and interactive 3D model manipulation.
 
-3e.py
+## 3e.py
 
 Python implementation for computing camera projection and converting 3D camera coordinates to 2D pixel coordinates.
 
-4a.js
+## 4a.js
 
 JavaScript implementation of the Phong reflection model for Question 4(a).
 
-4c.js
+## 4c.js
 
 JavaScript implementation of the Phong reflection model with a second point light for Question 4(c).
 
